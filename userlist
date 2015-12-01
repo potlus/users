@@ -1,0 +1,32 @@
+[
+	{
+		"lan_id": "potlus",
+		"name": "Sreenivas Potluri",
+		"dept": "IT Application Platform",
+  },
+	{
+		"lan_id": "anderjh",
+		"name": "Jeff H Anderson",
+		"dept": "IT Application Platform",
+  },
+	{
+		"lan_id": "mundtja",
+		"name": "Jesse A Mundt",
+		"dept": "IT Application Platform",
+  },
+	{
+		"lan_id": "stmarha",
+		"name": "Anthony St. Mary",
+		"dept": "IT Application Platform",
+  },
+	{
+		"lan_id": "sathym",
+		"name": "Megha Shyam Sathya Arun Potta",
+		"dept": "IT Application Platform",
+  },
+	{
+		"lan_id": "uddanm",
+		"name": "Mohan Uddanda",
+		"dept": "IT Application Platform",
+  }
+]
